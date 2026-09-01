@@ -1,0 +1,8 @@
+Sample Source Traceability
+Each sample entry is linked to an official EU legal source through a CELEX identifier and EUR-Lex language-specific URL.
+alignment_group_id	CELEX	Legal act	Structural reference EN source	FR source	DE source
+THT-PUBLIC-001	32016R0679	GDPR	Article 5(1), fine segment 4	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32016R0679	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32016R0679	https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32016R0679
+THT-PUBLIC-002	32022R2065	Digital Services Act	Article 15(1), fine segment 5	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R2065	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R2065	https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R2065
+THT-PUBLIC-003	32024R1689	AI Act	Article 14(4), fine segment 4	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1689	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32024R1689	https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024R1689
+THT-PUBLIC-004	32023R2854	Data Act	Article 3(3), fine segment 2	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R2854	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32023R2854	https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32023R2854
+THT-PUBLIC-005	32022R0868	Data Governance Act	Article 1(1), fine segment 2	https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0868	https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:32022R0868	https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32022R0868

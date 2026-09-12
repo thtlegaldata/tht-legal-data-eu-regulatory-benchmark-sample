@@ -206,7 +206,7 @@ https://www.thtlegaldata.com
 
 ## Contact
 
-Francis Manson  
+François-Olivier Manson  
 Founder, THT Legal Data  
 PhD in Law  
 Court-certified legal translator, France  
